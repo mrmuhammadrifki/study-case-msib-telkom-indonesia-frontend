@@ -13,7 +13,7 @@ Proyek ini bertujuan untuk mengembangkan antarmuka asisten virtual yang memungki
 - **[React](https://react.dev/)**: Library JavaScript untuk membangun antarmuka pengguna.
 - **[Vite](https://vitejs.dev/guide/)**: Alat build cepat untuk React, lihat panduannya di [Vite Guide](https://vitejs.dev/guide/).
 - **[Chat UI Kit React](https://github.com/chatscope/chat-ui-kit-react)**: Library untuk membangun antarmuka chat.
-- **[RestAPI](https://github.com/mrmuhammadrifki/study-case-msib-telkom-indonesia-api)**: Backend untuk mendapatkan dan menyimpan histori percakapan menggunakan Laravel 10.
+- **[API Backend](https://github.com/mrmuhammadrifki/study-case-msib-telkom-indonesia-api)**: Backend untuk mendapatkan dan menyimpan histori percakapan menggunakan Laravel 10.
 - **[API ChatGPT](https://platform.openai.com/docs/overview)**: Dokumentasi API tersedia di ChatGPT API Overview.
 
 ## Persyaratan
@@ -33,12 +33,8 @@ Proyek ini bertujuan untuk mengembangkan antarmuka asisten virtual yang memungki
    ```bash
    VITE_API_KEY=<YOUR_API_KEY>
    ```
-4. **Jalankan Composer** untuk menginstall dependensi PHP menggunakan perintah:
-   ```bash
-   composer install
-   ```
-5. **Jalankan** aplikasi frontend menggunakan perintah `npm run dev`.
-6. **Jalankan Server API Backend**: Untuk menjalankan server API backend, silakan ikuti panduan di repositori GitHub berikut: [Panduan Server API Backend](https://github.com/mrmuhammadrifki/study-case-msib-telkom-indonesia-api).
+4. **Jalankan** aplikasi frontend menggunakan perintah `npm run dev`.
+5. **Jalankan Server API Backend**: Untuk menjalankan server API backend, silakan ikuti panduan di repositori GitHub berikut: [Panduan Server API Backend](https://github.com/mrmuhammadrifki/study-case-msib-telkom-indonesia-api).
 
 ## Fitur yang Diimplementasikan
 
