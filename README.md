@@ -26,7 +26,7 @@ Proyek ini bertujuan untuk mengembangkan antarmuka asisten virtual yang memungki
 
 1. **Clone** repositori ini ke dalam lokal mesin Anda dengan perintah:
    ```bash
-   git clone https://github.com/mrmuhammadrifki/study-case-msib-telkom-indonesia-api.git
+   git clone https://github.com/mrmuhammadrifki/study-case-msib-telkom-indonesia-frontend.git
    ```
 2. **Install** semua dependensi menggunakan perintah `npm install`.
 3. **Buat** file `.env` di root project, dan tambahkan API key Anda:
