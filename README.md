@@ -48,8 +48,10 @@ Proyek ini bertujuan untuk mengembangkan antarmuka asisten virtual yang memungki
 ## Screenshots
 
 <p align="center">
-  <img src="images/frontend-1.png" width="300">
-  <img src="images/frontend-2.png" width="300">
+  <img src="images/frontend-1.png">
+</p>
+<p align="center">
+  <img src="images/frontend-2.png">
 </p>
 
 ---
