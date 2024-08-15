@@ -59,4 +59,4 @@ Proyek ini bertujuan untuk mengembangkan antarmuka asisten virtual yang memungki
 
 ---
 
-Dokumentasi ini sekarang mencakup tautan langsung pada semua alat dan referensi yang digunakan dalam proyek, memudahkan akses dan penggunaan.
+Terima kasih!
