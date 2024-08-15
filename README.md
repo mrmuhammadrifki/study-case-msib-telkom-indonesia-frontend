@@ -45,6 +45,9 @@ Proyek ini bertujuan untuk mengembangkan antarmuka asisten virtual yang memungki
 - **Antarmuka Responsif**: Menggunakan library `chat-ui-kit-react` untuk memastikan antarmuka responsif dan memberikan pengalaman pengguna yang optimal. Efek visual dan animasi ditambahkan untuk meningkatkan daya tarik visual.
 - **Unit Testing**: Implementasi unit testing pada API backend untuk memastikan format respons API sesuai dengan yang diharapkan.
 
+## Screen Record
+[Link Screen Record](https://drive.google.com/file/d/1hxKfSCH5aPlt1DN6YrIMciVX7PDvsF95/view?usp=sharing).
+
 ## Screenshots
 
 <p align="center">
